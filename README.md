@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqfardus&label=Profile%20views&color=0e75b6&style=flat" alt="ashiqfardus" /> </p>
 
-- 🔭 I’m currently working on **AIR ERP**
+- 🔭 I’m currently working on **AIR ERP** for **Savoy Ice Cream factory Limited**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
