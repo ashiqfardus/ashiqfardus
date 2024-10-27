@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AIR ERP** for **Savoy Ice Cream factory Limited**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development & Mobile App Development**
 
 - 📫 How to reach me **ashiqfardus@hotmail.com**
 
