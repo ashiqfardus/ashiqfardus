@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashiq_fardus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiq_fardus" height="30" width="40" /></a>
+<a href="https://twitter.com/ash1qfardus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashiq_fardus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asikul-islam-550691103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asikul-islam-550691103" height="30" width="40" /></a>
 <a href="https://fb.com/ash1qfardus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ash1qfardus" height="30" width="40" /></a>
 <a href="https://instagram.com/ashiq_fardus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashiq_fardus" height="30" width="40" /></a>
