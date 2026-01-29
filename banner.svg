@@ -1,0 +1,102 @@
+<svg width="1200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient Background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f172a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1e293b;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#334155;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Accent gradient for decorative elements -->
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0.2" />
+    </linearGradient>
+    
+    <!-- Badge gradient -->
+    <linearGradient id="badgeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#3b82f6;stop-opacity:0.15" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0.15" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="1100" cy="80" r="120" fill="url(#accentGradient)"/>
+  <circle cx="200" cy="350" r="80" fill="url(#accentGradient)"/>
+  <rect x="0" y="0" width="6" height="400" fill="#3b82f6" opacity="0.6"/>
+  
+  <!-- Left Section - Title -->
+  <text x="60" y="120" font-family="'Segoe UI', 'Inter', Arial, sans-serif" font-size="56" font-weight="bold" fill="#ffffff">
+    Software Engineer | Full Stack Architect
+  </text>
+  
+  <!-- Skill Tags Row -->
+  <g id="skillTags">
+    <!-- Laravel -->
+    <rect x="60" y="150" width="90" height="32" rx="16" fill="url(#badgeGradient)" stroke="#3b82f6" stroke-width="1"/>
+    <text x="105" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#60a5fa" text-anchor="middle">Laravel</text>
+    
+    <!-- Node.js -->
+    <rect x="160" y="150" width="90" height="32" rx="16" fill="url(#badgeGradient)" stroke="#3b82f6" stroke-width="1"/>
+    <text x="205" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#60a5fa" text-anchor="middle">Node.js</text>
+    
+    <!-- React -->
+    <rect x="260" y="150" width="75" height="32" rx="16" fill="url(#badgeGradient)" stroke="#3b82f6" stroke-width="1"/>
+    <text x="297.5" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#60a5fa" text-anchor="middle">React</text>
+    
+    <!-- RestAPI -->
+    <rect x="345" y="150" width="90" height="32" rx="16" fill="url(#badgeGradient)" stroke="#3b82f6" stroke-width="1"/>
+    <text x="390" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#60a5fa" text-anchor="middle">RestAPI</text>
+    
+    <!-- MySQL -->
+    <rect x="445" y="150" width="80" height="32" rx="16" fill="url(#badgeGradient)" stroke="#3b82f6" stroke-width="1"/>
+    <text x="485" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#60a5fa" text-anchor="middle">MySQL</text>
+    
+    <!-- Redis -->
+    <rect x="535" y="150" width="75" height="32" rx="16" fill="url(#badgeGradient)" stroke="#3b82f6" stroke-width="1"/>
+    <text x="572.5" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#60a5fa" text-anchor="middle">Redis</text>
+    
+    <!-- Git -->
+    <rect x="620" y="150" width="60" height="32" rx="16" fill="url(#badgeGradient)" stroke="#3b82f6" stroke-width="1"/>
+    <text x="650" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#60a5fa" text-anchor="middle">Git</text>
+    
+    <!-- GCP -->
+    <rect x="690" y="150" width="65" height="32" rx="16" fill="url(#badgeGradient)" stroke="#3b82f6" stroke-width="1"/>
+    <text x="722.5" y="172" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="500" fill="#60a5fa" text-anchor="middle">GCP</text>
+  </g>
+  
+  <!-- Center/Right - Slogan -->
+  <text x="60" y="250" font-family="'Segoe UI', Arial, sans-serif" font-size="28" font-weight="300" fill="#e2e8f0" style="letter-spacing: 0.5px">
+    Turning code into seamless digital experiences
+  </text>
+  
+  <!-- Bottom Row - Social Icons & Handles -->
+  <g id="socialLinks">
+    <!-- GitHub Icon -->
+    <g transform="translate(60, 320)">
+      <circle cx="12" cy="12" r="12" fill="#ffffff" opacity="0.1"/>
+      <path d="M 12 2 C 6.477 2 2 6.477 2 12 C 2 16.42 4.865 20.17 8.839 21.49 C 9.339 21.58 9.52 21.27 9.52 21 C 9.52 20.77 9.51 20.14 9.51 19.31 C 7 19.79 6.35 18.62 6.15 18.01 C 6.037 17.7 5.55 16.81 5.125 16.58 C 4.775 16.41 4.275 15.93 5.112 15.92 C 5.9 15.91 6.462 16.65 6.65 16.96 C 7.55 18.43 8.988 18.01 9.562 17.73 C 9.65 17.08 9.912 16.65 10.2 16.38 C 7.975 16.11 5.65 15.25 5.65 11.37 C 5.65 10.31 6.037 9.43 6.675 8.75 C 6.575 8.48 6.225 7.47 6.775 6.15 C 6.775 6.15 7.612 5.88 9.52 7.17 C 10.33 6.93 11.18 6.81 12.03 6.81 C 12.88 6.81 13.73 6.93 14.54 7.17 C 16.448 5.87 17.285 6.15 17.285 6.15 C 17.835 7.47 17.485 8.48 17.385 8.75 C 18.023 9.43 18.41 10.3 18.41 11.37 C 18.41 15.26 16.073 16.11 13.848 16.38 C 14.21 16.7 14.528 17.31 14.528 18.26 C 14.528 19.6 14.518 20.68 14.518 21 C 14.518 21.27 14.698 21.59 15.198 21.49 C 19.259 20.16 22 16.41 22 12 C 22 6.477 17.523 2 12 2 Z" fill="#ffffff" transform="scale(0.5) translate(12, 12)"/>
+    </g>
+    <text x="95" y="337" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#cbd5e1">ashiqfardus</text>
+    
+    <!-- LinkedIn Icon -->
+    <g transform="translate(240, 320)">
+      <circle cx="12" cy="12" r="12" fill="#ffffff" opacity="0.1"/>
+      <path d="M 20.447 20.452 L 16.893 20.452 L 16.893 14.883 C 16.893 13.555 16.866 11.846 15.041 11.846 C 13.188 11.846 12.905 13.291 12.905 14.785 L 12.905 20.452 L 9.351 20.452 L 9.351 9 L 12.765 9 L 12.765 10.561 L 12.811 10.561 C 13.288 9.661 14.448 8.711 16.181 8.711 C 19.782 8.711 20.448 11.081 20.448 14.166 L 20.448 20.452 Z M 5.337 7.433 C 4.193 7.433 3.274 6.507 3.274 5.368 C 3.274 4.23 4.194 3.305 5.337 3.305 C 6.477 3.305 7.401 4.23 7.401 5.368 C 7.401 6.507 6.476 7.433 5.337 7.433 Z M 7.119 20.452 L 3.555 20.452 L 3.555 9 L 7.119 9 L 7.119 20.452 Z M 22.225 0 L 1.771 0 C 0.792 0 0 0.774 0 1.729 L 0 22.271 C 0 23.227 0.792 24 1.771 24 L 22.222 24 C 23.2 24 24 23.227 24 22.271 L 24 1.729 C 24 0.774 23.2 0 22.222 0 Z" fill="#ffffff" transform="scale(0.45) translate(14, 14)"/>
+    </g>
+    <text x="275" y="337" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#cbd5e1">asikul-islam</text>
+    
+    <!-- Twitter Icon -->
+    <g transform="translate(440, 320)">
+      <circle cx="12" cy="12" r="12" fill="#ffffff" opacity="0.1"/>
+      <path d="M 23 3 C 22.0424 3.67548 20.9821 4.19211 19.86 4.53 C 19.2577 3.83751 18.4573 3.34669 17.567 3.12393 C 16.6767 2.90116 15.7395 2.95718 14.8821 3.28445 C 14.0247 3.61173 13.2884 4.1944 12.773 4.95372 C 12.2575 5.71303 11.9877 6.61234 12 7.53 V 8.53 C 10.2426 8.57557 8.50127 8.18581 6.93101 7.39545 C 5.36074 6.60508 4.01032 5.43864 3 4 C 3 4 -1 13 8 17 C 5.94053 18.398 3.48716 19.099 1 19 C 10 24 21 19 21 7.5 C 20.9991 7.22145 20.9723 6.94359 20.92 6.67 C 21.9406 5.66349 22.6608 4.39271 23 3 Z" fill="#ffffff" transform="scale(0.5) translate(12, 12)"/>
+    </g>
+    <text x="475" y="337" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#cbd5e1">ash1qfardus</text>
+  </g>
+  
+  <!-- Decorative line accent -->
+  <line x1="60" y="305" x2="600" y2="305" stroke="#3b82f6" stroke-width="1" opacity="0.3"/>
+</svg>
