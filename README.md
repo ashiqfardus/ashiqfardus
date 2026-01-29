@@ -116,14 +116,6 @@ I specialize in **Laravel**, **Node.js**, and **REST APIs**, and I'm passionate 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ashiqfardus)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
 
----
-
-## 📊 GitHub Stats
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashiqfardus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiqfardus&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
 ---
 
