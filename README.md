@@ -81,7 +81,7 @@ I specialize in **Laravel**, **Node.js**, and **REST APIs**, and I'm passionate 
 | Package | Description | Links |
 |---------|-------------|-------|
 | [Laravel Fuzzy Search](https://github.com/ashiqfardus/laravel-fuzzy-search) | A zero-config fuzzy search package for Laravel using Levenshtein distance, Metaphone, and Soundex. Features include typo tolerance, relevance scoring, field weighting, and async indexing. | [Packagist](https://packagist.org/packages/ashiqfardus/laravel-fuzzy-search) |
-| [Horizon Running Jobs](https://github.com/ashiqfardus/horizon-running-jobs) | A monitoring tool for Laravel Horizon that provides real-time visibility into actively running jobs, with filtering and detailed execution metrics. | [Packagist](https://packagist.org/packages/ashiqfardus/horizon-running-jobs) |
+| [Horizon Running Jobs](https://github.com/ashiqfardus/laravel-horizon-running-jobs) | A monitoring tool for Laravel Horizon that provides real-time visibility into actively running jobs, with filtering and detailed execution metrics. | [Packagist](https://packagist.org/packages/ashiqfardus/horizon-running-jobs) |
 
 ---
 
