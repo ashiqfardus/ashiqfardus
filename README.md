@@ -131,7 +131,7 @@ I'm always excited to collaborate on:
 ### 📫 Connect with Me
 
 [![Email Me](https://img.shields.io/badge/Email-ashiqfardus@hotmail.com-red?style=for-the-badge&logo=gmail)](mailto:ashiqfardus@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asikul-islam-550691103)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashiqfardus/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ash1qfardus)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ash1qfardus)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ashiq_fardus)
